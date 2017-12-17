@@ -6,8 +6,8 @@ My contributions include:
 - Geographical Visualization
 - Exploring the effects of applying spatial lags to our data using Python Library pysal
 
-My other group members were:
-Dale Wahl - https://github.com/dale-wahl
-Diego Rodriguez - https://github.com/rodriguezda
-Kyle Santana - http://kylesantana.com
+Other group members were:<br>
+Dale Wahl - https://github.com/dale-wahl<br>
+Diego Rodriguez - https://github.com/rodriguezda<br>
+Kyle Santana - http://kylesantana.com<br>
 Matt Bollinger - 
